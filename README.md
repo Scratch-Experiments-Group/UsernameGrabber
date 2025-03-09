@@ -1,6 +1,9 @@
 # UsernameGrabber
 You can change the length of the username the grabber is searching for.
 
+> [!NOTE]
+> This project is a fork of [this](https://github.com/yoann256/scratchapi-experiments/tree/main/UsernameGrabber), this fork is not maintained.
+
 ```c
 #define RANDOM_STRING_LENGTH 3
 ```
